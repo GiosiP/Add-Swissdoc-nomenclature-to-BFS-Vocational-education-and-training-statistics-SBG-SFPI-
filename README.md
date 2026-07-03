@@ -1,2 +1,3 @@
-# Add-Swissdoc-nomenclature-to-BFS-Vocational-education-and-training-statistics-SBG-SFPI-
-Text analysis and various cleaning process to classify official professions into 8 broad Swissdoc domains
+# Add-Swissdoc-nomenclature-to-BFS-Vocational-education-and-training-statistics-SBG-SFPI
+Classification of official professions into Swissdoc domains using text analysis and various cleaning processes
+Playground for experimenting with string replacements, corrections and clustering
